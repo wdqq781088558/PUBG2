@@ -29,7 +29,7 @@ make
 make install
 
 git clone https://github.com/wdqq781088558/PUBG2.git
-cd pubgradar/
+cd PUBG2/
 npm i
 npm i -g pino
 npm install -g forever
